@@ -1,0 +1,46 @@
+body {
+  font-family: "Nunito", cursive;
+  background-color: black;
+}
+
+section {
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.Heading-Text {
+  margin-left: 65px;
+}
+
+.icon1 {
+  margin-left: 40px;
+  margin-right: 18px;
+  margin-top: 8px;
+  float: left;
+}
+
+.icon2 {
+  margin-left: 40px;
+  margin-right: 18px;
+  margin-top: 8px;
+  float: left;
+}
+
+.Heading {
+  margin-botton: 50px;
+}
+
+.Text {
+  margin-left: 20px;
+  margin-top: 0.1px;
+}
+
+h2 {
+  margin-left: 32px;
+}
+
+p {
+  color: #9aabc3;
+  margin-left: 32px;
+}
